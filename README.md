@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Donald
-#### I am a Junior Full stack developer
+#### I am a Full stack developer
 I'm a passionate junior fullstack software engineer specializing in building highly responsive web and android apps using the latest technology platforms.
 
 Skills:  / HTML / CSS/ SASS / REACT / JS / Python / Django / Java/ PHP/ NodeJS / Express
