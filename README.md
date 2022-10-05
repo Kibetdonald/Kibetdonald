@@ -2,7 +2,7 @@
 #### I am a Full stack developer
 I'm a passionate junior fullstack software engineer specializing in building highly responsive web and android apps using the latest technology platforms.
 
-Skills:  / HTML / CSS/ SASS / REACT / JS / Python / Django / Java/ PHP/ NodeJS / Express
+Skills:  / HTML / CSS/ SASS / REACT / JS / Python / Django / Java/ Spring Boot / GraphQL / PHP/ NodeJS / Express
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: kibetdonald97@gmail.com 
