@@ -5,7 +5,7 @@ I'm a passionate junior fullstack software engineer specializing in building hig
 Skills:  / HTML / CSS/ SASS / REACT / JS / Python / Django / Java/ Spring Boot / GraphQL / PHP/ NodeJS / Express
 
 - 🔭 I’m currently working on this page. 
-- 📫 How to reach me: kibetdonald97@gmail.com 
+- 📫 How to reach me: kibetdonald01@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kibetdonald)  
